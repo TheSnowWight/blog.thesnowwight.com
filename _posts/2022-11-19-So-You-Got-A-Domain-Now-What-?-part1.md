@@ -36,9 +36,9 @@ Example URL: https://support.companyname.com/en/webpage
 
 <table>
     <tr>
-        <td>Part of the URL</td>
-        <td>Value</td>
-        <td>Definition</td>
+        <td><b>Part of the URL</b></td>
+        <td><b>Value</b></td>
+        <td><b>Definition</b></td>
     </tr>
     <tr>
         <td>protocol</td>
