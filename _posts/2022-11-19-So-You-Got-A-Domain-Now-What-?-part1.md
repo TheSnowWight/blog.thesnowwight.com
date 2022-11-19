@@ -17,8 +17,8 @@ Here are some of the topics future parts will aim to cover:
 -   Subdomains & DNS Zones
 -   Private vs Public DNS
 
-https://github.com/TheSnowWight/blog.thesnowwight.com/blob/master/images/0days-since-dns.png
-
+<img src="https://github.com/TheSnowWight/blog.thesnowwight.com/blob/master/images/0days-since-dns.png
+" alt="https://dnx.solutions/wp-content/uploads/2021/02/Its-always-dns.jpeg">
 Source: https://dnx.solutions/wp-content/uploads/2021/02/Its-always-dns.jpeg
 
 
