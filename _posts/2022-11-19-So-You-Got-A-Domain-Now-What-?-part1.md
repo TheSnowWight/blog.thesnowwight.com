@@ -34,15 +34,43 @@ For the rest of you keep on reading!
 
 Example URL: https://support.companyname.com/en/webpage
 
-
-| Part of the URL         | Value | Definition |
-|--------------|:-----:|----------------:|
-| protocol |  https |        What protocol is used to access the url, here we use TCP 443 (https) |
-| subdomain      |  support |          subdomain  |
-| domain      |  companyname |          Domain name  |
-| TLD      |  com |          Top Level Domain|
-| subdirectory      |  en |          subdirectory on the webserver  |
-| webpage      |  webpage |          webpage on the webserver  |
+<table>
+    <tr>
+        <td>Part of the URL</td>
+        <td>Value</td>
+        <td>Definition</td>
+    </tr>
+    <tr>
+        <td>protocol</td>
+        <td>https</td>
+        <td>What protocol is used to access the url, here we use TCP 443 (https)</td>
+    </tr>
+    <tr>
+        <td>subdomain</td>
+        <td>support</td>
+        <td>subdomain</td>
+    </tr>
+    <tr>
+        <td>domain</td>
+        <td>companyname</td>
+        <td>Domain name</td>
+    </tr>
+    <tr>
+        <td>TLD</td>
+        <td>com</td>
+        <td>Top Level Domain</td>
+    </tr>
+    <tr>
+        <td>subdirectory</td>
+        <td>en</td>
+        <td>subdirectory on the webserver</td>
+    </tr>
+    <tr>
+        <td>webpage</td>
+        <td>webpage</td>
+        <td>webpage on the webserver</td>
+    </tr>
+</table>
 
 
 #### Top Level Domain - TLD
