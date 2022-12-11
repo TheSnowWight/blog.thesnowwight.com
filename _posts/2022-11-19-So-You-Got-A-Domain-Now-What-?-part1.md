@@ -18,6 +18,7 @@ Here are some of the topics future parts will aim to cover:
 -   Private vs Public DNS
 
 <img src="https://blog.thesnowwight.com/images/0days-since-dns.png" alt="Its Always DNS">
+
 Source: https://dnx.solutions/wp-content/uploads/2021/02/Its-always-dns.jpeg
 
 
