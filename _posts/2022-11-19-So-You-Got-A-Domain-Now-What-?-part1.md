@@ -122,8 +122,8 @@ You can also buy your domain from any vendor that issues public domain certifica
 
 Here are few bulk domain search tools as examples and a lot of services offer their own during the time of purchase
 
-https://www.name.com/names
-https://www.checkdomain.net/en/domains/search
+-    https://www.name.com/names
+-    https://www.checkdomain.net/en/domains/search
 
 As you can imagine each of these have vendors have different services, domains available for purchase and other options to choose from, so it is difficult to make a recommendation which one to pick. 
 
