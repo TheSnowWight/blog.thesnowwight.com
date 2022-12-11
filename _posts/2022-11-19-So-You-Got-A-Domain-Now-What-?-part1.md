@@ -35,7 +35,7 @@ For the rest of you keep on reading!
 
 Example URL: https://support.companyname.com/en/webpage
 
-<table>
+<table border="1">
     <tr>
         <td><b>Part of the URL</b></td>
         <td><b>Value</b></td>
