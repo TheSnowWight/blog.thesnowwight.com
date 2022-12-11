@@ -34,42 +34,41 @@ For the rest of you keep on reading!
 #### Building blocks for domain names
 
 Example URL: https://support.companyname.com/en/webpage
-
 <table border="1">
     <tr>
-        <td><b>Part of the URL</b></td>
-        <td><b>Value</b></td>
-        <td><b>Definition</b></td>
+        <td border="1"><b>Part of the URL</b></td>
+        <td border="1"><b>Value</b></td>
+        <td border="1"><b>Definition</b></td>
     </tr>
     <tr>
-        <td>protocol</td>
-        <td>https</td>
-        <td>What protocol is used to access the url, here we use TCP 443 (https)</td>
+        <td border="1">protocol</td>
+        <td border="1">https</td>
+        <td border="1">What protocol is used to access the url, here we use TCP 443 (https)</td>
     </tr>
     <tr>
-        <td>subdomain</td>
-        <td>support</td>
-        <td>subdomain</td>
+        <td border="1">subdomain</td>
+        <td border="1">support</td>
+        <td border="1">subdomain</td>
     </tr>
     <tr>
-        <td>domain</td>
-        <td>companyname</td>
-        <td>Domain name</td>
+        <td border="1">domain</td>
+        <td border="1">companyname</td>
+        <td border="1">Domain name</td>
     </tr>
     <tr>
-        <td>TLD</td>
-        <td>com</td>
-        <td>Top Level Domain</td>
+        <td border="1">TLD</td>
+        <td border="1">com</td>
+        <td border="1">Top Level Domain</td>
     </tr>
     <tr>
-        <td>subdirectory</td>
-        <td>en</td>
-        <td>subdirectory on the webserver</td>
+        <td border="1">subdirectory</td>
+        <td border="1">en</td>
+        <td border="1">subdirectory on the webserver</td>
     </tr>
     <tr>
-        <td>webpage</td>
-        <td>webpage</td>
-        <td>webpage on the webserver</td>
+        <td border="1">webpage</td>
+        <td border="1">webpage</td>
+        <td border="1">webpage on the webserver</td>
     </tr>
 </table>
 
